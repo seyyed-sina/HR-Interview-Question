@@ -2,6 +2,38 @@
 
 An open-source guide to help you with the HR questions in your next developer interview.
 
+### Table of Contents
+* [Greeting](#greeting)
+* [Tell me about yourself.](#tell-me-about-yourself)
+* [Why did you start web development?](#why-did-you-start-a-web-development)
+* [Why are you interested in this opportunity?](#why-are-you-interested-in-this-opportunity)
+* [What are your strengths?](#what-are-your-strengths)
+* [What are your weaknesses?](#what-are-your-weaknesses)
+* [Do you prefer working independently or on a team?](#do-you-prefer-working-independently-or-on-a-team)
+* [Tell us about a challenge you’ve faced and how you handled it.](#tell-us-about-a-challenge-youve-faced-and-how-you-handled-it)
+* [Why did you leave your job?](#why-are-you-left-your-job)
+* [What are you looking for in your next job?](#what-are-you-looking-for-in-your-next-job)
+* [What type of work environment do you prefer?](#what-type-of-work-environment-do-you-prefer)
+* [Are you applying for other jobs?](#are-you-applying-for-other-jobs)
+* [What are you passionate about?](#what-are-you-passionate-about)
+* [What do you think about code review?](#what-do-you-think-about-code-review)
+* [What makes you stressed while working on a team?](#what-makes-you-stressed-while-working-on-a-team)
+* [How do you make decisions?](#how-do-you-make-decisions)
+* [Can you tell me about a time you failed and how you handled it?](#can-you-tell-me-about-a-time-you-failed-and-how-you-handled-it)
+* [What do you like to do in your free time?](#what-do-you-like-to-do-in-your-free-time)
+* [Where do you see yourself in the next 5 years?](#where-do-you-see-yourself-in-next-5-years)
+* [How do you handle stress or tight deadlines?](#how-do-you-handle-stress-or-tight-deadlines)
+* [What is your experience working in a team?](#what-is-your-experience-working-in-a-team)
+* [How do you manage conflict with coworkers?](#how-do-you-manage-conflict-with-coworkers)
+* [What does it mean to be a Senior Developer?](#what-does-it-mean-to-be-a-senior-developer)
+* [Describe a conflict you had with a team member and how you resolved it.](#describe-a-conflict-you-had-with-a-team-member-and-how-you-resolved-it)
+* [How would your boss and coworkers describe you?](#how-would-your-boss-and-coworkers-describe-you)
+* [Would you rather work alone or with a team?](#would-you-rather-work-alone-or-with-a-team)
+* [What are your salary expectations?](#what-are-your-salary-expectations)
+* [What is your notice period? When can you start a new position?](#what-is-your-notice-period-when-can-you-start-a-new-position)
+
+---
+
 ## Greeting
 
 Hello, how are you today? Nice to meet you.
