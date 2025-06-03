@@ -1,4 +1,4 @@
-# HR Interview Questions
+# HR Interview Questions for Developers
 
 An open-source guide to help you with the HR questions in your next developer interview.
 
