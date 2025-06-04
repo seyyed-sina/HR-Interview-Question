@@ -288,7 +288,7 @@ Looking back, I learned the importance of communication and collaboration in res
 - I can start immediately since I am unemployed right now.
 - I don’t have any notice period since I left my last company.
 
-
-
 <hr />
-This open-source guide was created by [Seyed Sina](https://github.com/seyyed-sina). Contributions are welcome!
+<p>
+  <small>This open-source guide was created by <a href="https://github.com/seyyed-sina">Seyed Sina</a>. Contributions are welcome!</small>
+</p>
