@@ -1,6 +1,17 @@
-# HR Interview Questions for Developers
+<h1 align="center">
+  HR Interview Questions for Developers
+</h1>
 
-An open-source guide to help you with the HR questions in your next developer interview.
+<p align="center">
+  An open-source guide to help you with the HR questions in your next developer interview.
+</p>
+
+<div  align="center" style="text-align:center; margin-right: auto; margin-left: auto;">
+  <a  align="center" href="/assets/download/HR-Interview-Questions.pdf" download style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Download-PDF-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download PDF"/>
+  </a>
+</div>
+<hr />
 
 ### Table of Contents
 * [Greeting](#greeting)
@@ -276,3 +287,8 @@ Looking back, I learned the importance of communication and collaboration in res
 
 - I can start immediately since I am unemployed right now.
 - I don’t have any notice period since I left my last company.
+
+
+
+<hr />
+This open-source guide was created by [Seyed Sina](https://github.com/seyyed-sina). Contributions are welcome!
