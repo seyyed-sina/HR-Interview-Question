@@ -7,17 +7,20 @@
   display: none; /* Hidden by default */
   position: fixed; /* Keep it in place while scrolling */
   bottom: 20px;
-  right: 30px;
+  right: 24px;
   z-index: 99; /* Make sure it's on top of other content */
   border: none;
   outline: none;
   background-color: #157878; /* Cayman theme's header color */
   color: white;
   cursor: pointer;
-  padding: 15px;
-  border-radius: 10px;
-  font-size: 18px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100px;
+  font-size: 16px;
   line-height: 1;
+  width: 44px;
+  height: 44px;
 }
 
 #goToTopBtn:hover {
