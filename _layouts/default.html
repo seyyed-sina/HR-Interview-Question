@@ -30,32 +30,32 @@
       {% if site.github.is_project_page %}
         <footer class="site-footer">
           <p>
-            <small>This open-source guide made with ❤ by <a href="{{ site.github.repository_url }}">Seyed Sina</a>. All Contributions are welcome!</small>
+            <small>This open-source guide made with ❤ by <a href="{{ site.github.repository_url }}">Seyed Sina</a>. 
+              <br />
+              All Contributions are welcome!
+            </small>
           </p>
         </footer>
       {% endif %}
     </main>
     
-  <button onclick="scrollToTop()" id="goToTopBtn" title="Go to top">↑</button>
+  <button onclick="scrollToTop()" id="goToTopBtn" title="Go to top" class="btn">↑</button>
 
   <script>
-    // Get the button
     var mybutton = document.getElementById("goToTopBtn");
 
-    // When the user scrolls down 20px from the top of the document, show the button
     window.onscroll = function() {
       scrollFunction()
     };
 
     function scrollFunction() {
       if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
-        mybutton.style.display = "block";
+        mybutton.style.display = "flex";
       } else {
         mybutton.style.display = "none";
       }
     }
 
-    // When the user clicks on the button, scroll to the top of the document smoothly
     function scrollToTop() {
       window.scrollTo({top: 0, behavior: 'smooth'});
     }
