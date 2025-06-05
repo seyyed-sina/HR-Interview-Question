@@ -262,7 +262,7 @@ I onc  e underestimated the time required for a project, which led to a delayed 
 
 ## **What are your salary expectations?** 
 
-  - I am open to discussing what you believe to be a fair salary for the position. However, based on my skills and experience and on the current industry rates I am looking at my salary at around (($70-80) per hour, ($10k - $15k) per month.
+  - I am open to discussing what you believe to be a fair salary for the position. However, based on my skills and experience and on the current industry rates I am looking at my salary at around ($70-80) per hour, ($10k - $15k) per month.
   - Actually, I am negotiable with salary discussions.
 
 ## **What is your notice period? When can you start a new position?**
