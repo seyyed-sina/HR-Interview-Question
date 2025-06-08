@@ -26,3 +26,11 @@
 #goToTopBtn:hover {
   background-color: #116060; /* A darker shade for hover */
 }
+.main-content { 
+  font-size: 1rem !important;
+  ul, ol {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+}
