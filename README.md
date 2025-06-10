@@ -1,3 +1,5 @@
+![Project Screenshot](./assets/screenshots_1.png)
+
 ### Table of Contents
 * [Greeting](#greeting)
 * [Tell me about yourself.](#tell-me-about-yourself)
